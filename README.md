@@ -1,5 +1,6 @@
 # auto-code-VSphone
 Auto Redeem code VSphone (check)
+
 // ==UserScript==
 // @name         VSPhone Auto nhập code (GUI + chọn tốc độ)
 // @match        https://cloud.vsphone.com/activation-code*
